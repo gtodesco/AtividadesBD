@@ -1,2 +1,2 @@
 # AtividadesBD
-Atividades da matéria de Banco de Dados
+Arquivos da matéria de Banco de Dados
